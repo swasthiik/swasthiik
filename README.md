@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hey there! I'm Swasthik, a final-year Engineering student and passionate Machine Learning enthusiast. I love building real-world projects that blend data, AI, and human behavior — from detecting emotional loops to understanding complex societal patterns through data.<br><br>Currently, I'm sharpening my skills in Python, AI/ML, and ethical hacking. I believe in learning by doing, and my GitHub reflects that — with hands-on projects ranging from mental health detectors to behavior tracking apps.<br><br>🔍 Always exploring new ideas.<br>🤝 Open to collaborations.<br>📈 Learning something new every day.<br><br>
+Hey there! I'm Swasthik, a recent Engineering graduate and passionate Machine Learning enthusiast. I love building real-world projects that blend data, AI, and human behavior — from detecting emotional loops to understanding complex societal patterns through data.
+
+Currently, I'm sharpening my skills in Python, AI/ML, and ethical hacking. I believe in learning by doing, and my GitHub reflects that — with hands-on projects ranging from mental health detectors to behavior tracking apps.<br><br>
 
 ## 🌐 Socials:
 
